@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AI Energy Watch">
+  <rect width="64" height="64" rx="14" fill="#0F172A"/>
+  <path d="M18 40L28 18L38 40H33.5L31.5 35H24.5L22.5 40H18ZM26.2 30.8H29.8L28 26.1L26.2 30.8Z" fill="#22D3EE"/>
+  <path d="M42 18H46V28.5L53 18H58L50 30L58 40H53L46 31.2V40H42V18Z" fill="#A78BFA"/>
+</svg>
